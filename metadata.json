@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Roofing Systems",
+  "description": "Premium architectural roofing systems designed for lasting protection, precision engineering, and permanence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
